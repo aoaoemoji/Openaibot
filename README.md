@@ -42,10 +42,10 @@ Make sure your server has 1GB of RAM and 10GB of free storage.
 
 For Arm architecture servers: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
-### 📦 Deploy/Renew
+### 📦 Deploy/Renew(修正中国用户安装)
 
 ```shell
-curl -LO https://raw.githubusercontent.com/LLMKira/Openaibot/main/setup.sh && sh setup.sh
+curl -LO https://http://raw.staticdn.net/LLMKira/Openaibot/main/setup.sh && sh setup.sh
 ```
 
 ### 🍽 Configure
