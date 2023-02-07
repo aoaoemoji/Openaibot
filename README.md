@@ -45,7 +45,7 @@ For Arm architecture servers: `curl --proto '=https' --tlsv1.2 -sSf https://sh.r
 ### 📦 Deploy/Renew(修正中国用户安装)
 
 ```shell
-curl -LO https://http://raw.staticdn.net/aoaoemoji/Openaibot/main/setup.sh && sh setup.sh
+curl -LO http://raw.staticdn.net/aoaoemoji/Openaibot/main/setup.sh && sh setup.sh
 ```
 
 ### 🍽 Configure
